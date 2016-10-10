@@ -11,4 +11,6 @@ body{
   position:absolute;
   top:auto;
   left:auto;
+  width:75px;
+  height:35px;
 }
